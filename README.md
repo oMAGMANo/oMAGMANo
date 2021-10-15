@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oMAGMANo.
 - 👀 I’m interested in GAME PHYSICS.
-- 🌱 I’m currently learning C++ and PYTHON 3.6.
+- 🌱 I’m currently learning C++ and PYTHON 3.10.
 - 💞️ I’m looking to collaborate on GAME PHYSICS DEVELOPMENT.
 - 📫 E-mail me at shivamsingh12march@gmail.com or Reach me @Shivam_ss12 on instagram.
 
