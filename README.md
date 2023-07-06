@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oMAGMANo.
 - 👀 I’m looking to collaborate on Machine Learning Projects
-- 🌱 I’m currently learning C++ and PYTHON 3.10.
 - 📫 Reach me at shivamsingh12march@gmail.com
 
 <!---
