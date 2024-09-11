@@ -8,7 +8,7 @@ I'm passionate about **Machine Learning** and always looking for innovative proj
 - 👨‍💻 **My Projects:** Check out all of my projects [here](https://github.com/oMAGMANo).
 - 📫 **Get in Touch:** Reach out to me at [shivam12.dev@gmail.com](mailto:shivam12.dev@gmail.com)
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/12shivam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12shivam/)
 
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
