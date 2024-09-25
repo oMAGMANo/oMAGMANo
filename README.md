@@ -5,7 +5,11 @@ I'm passionate about **Machine Learning** and always looking for innovative proj
 - 🌱 **Learning and Growing:** Continuously improving my skills in AI/ML and exploring new technologies.
 - 👯 **Collaborative Spirit:** Looking to collaborate on **Machine Learning** projects.
 - 🤝 **Exploring New Horizons:** Eager to learn more about other disciplines and expand my knowledge base.
-- 👨‍💻 **My Projects:** Check out all of my projects [here](https://github.com/oMAGMANo).
+- 👨‍💻 **My Projects:** 
+  - [Document-Retrieval-API](https://github.com/oMAGMANo/Document-Retrieval-API): An efficient API for document retrieval.
+  - [SudokuSolver](https://github.com/oMAGMANo/SudokuSolver): A Python-based Sudoku solver leveraging ML algorithms.
+  - [UnityAid](https://github.com/oMAGMANo/UnityAid): A fundraiser website for community collaboration.
+  - [FaceAttendanceRT](https://github.com/oMAGMANo/FaceAttendanceRT): A real-time face recognition-based attendance system.
 - 📫 **Get in Touch:** Reach out to me at [shivam12.dev@gmail.com](mailto:shivam12.dev@gmail.com)
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12shivam/)
