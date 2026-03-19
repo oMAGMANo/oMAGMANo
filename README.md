@@ -1,33 +1,44 @@
-# 👋 Hi there, I’m Shivam Singh (@oMAGMANo)
+# 👋 Hi, I'm Shivam Singh
 
-I'm passionate about **Machine Learning** and always looking for innovative projects to collaborate on!
+💼 Software Engineer specializing in **Agentic AI & LLM Systems**  
+🧠 Building **multi-agent workflows, RAG pipelines, and AI-powered backend systems**  
 
-- 🌱 **Learning and Growing:** Continuously improving my skills in AI/ML and exploring new technologies.
-- 👯 **Collaborative Spirit:** Looking to collaborate on **Machine Learning** projects.
-- 🤝 **Exploring New Horizons:** Eager to learn more about other disciplines and expand my knowledge base.
-- 👨‍💻 **My Projects:** 
-  - [Document-Retrieval-API](https://github.com/oMAGMANo/Document-Retrieval-API): An efficient API for document retrieval.
-  - [SudokuSolver](https://github.com/oMAGMANo/SudokuSolver): A Python-based Sudoku solver leveraging ML algorithms.
-  - [UnityAid](https://github.com/oMAGMANo/UnityAid): A fundraiser website for community collaboration.
-  - [FaceAttendanceRT](https://github.com/oMAGMANo/FaceAttendanceRT): A real-time face recognition-based attendance system.
-- 📫 **Get in Touch:** Reach out to me at [shivam12.dev@gmail.com](mailto:shivam12.dev@gmail.com)
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12shivam/)
+---
 
-## 🛠️ Languages and Tools:
+## 🚀 What I Do
+
+- Design **multi-agent systems** using LangGraph and modern LLM frameworks  
+- Build **scalable backend APIs** with FastAPI and async Python  
+- Work on **intelligent document processing systems**  
+- Explore **real-world AI system architectures**
+
+---
+
+## 🔥 Featured Projects
+
+- 🧠 [TaskTrail](https://github.com/oMAGMANo/TaskTrail) — AI-powered task management with multi-agent system  
+- 📄 [Policy Processor](https://github.com/oMAGMANo/policy-processor) — LLM-based decision tree system  
+- ⚙️ [Priority Processing Agent](https://github.com/oMAGMANo/PriorityProcessingAgent) — intelligent backend processing system  
+- 🤖 [LangGraph A2A Template](https://github.com/oMAGMANo/LanggraphA2ATemplate) — production-ready multi-agent template  
+- 🎧 [Multimodal Emotion System](https://github.com/oMAGMANo/multimodal-emotion-recognition-music-system) — patent-backed multimodal AI  
+
+---
+
+## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+---
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=matlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 📫 Connect With Me
 
-Let's connect and create something amazing together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12shivam/)
+📧 shivam12.dev@gmail.com
+
+---
+
+💡 *Focused on building real-world AI systems, not just models.*
