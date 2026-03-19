@@ -37,8 +37,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12shivam/)
-📧 shivam12.dev@gmail.com
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam12.dev@gmail.com)
 ---
 
 💡 *Focused on building real-world AI systems, not just models.*
