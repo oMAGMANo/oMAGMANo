@@ -1,43 +1,39 @@
-# 👋 Hi, I'm Shivam Singh
+### 👋 Hi, I'm Shivam Singh
 
-💼 Software Engineer specializing in **Agentic AI & LLM Systems**  
-🧠 Building **multi-agent workflows, RAG pipelines, and AI-powered backend systems**  
-
----
-
-## 🚀 What I Do
-
-- Design **multi-agent systems** using LangGraph and modern LLM frameworks  
-- Build **scalable backend APIs** with FastAPI and async Python  
-- Work on **intelligent document processing systems**  
-- Explore **real-world AI system architectures**
+💼 Software Engineer specializing in Agentic AI & Multi-Agent Systems
+🧠 Building self-hosted infrastructure, RAG pipelines, and production-grade agent platforms
 
 ---
 
-## 🔥 Featured Projects
+### 🚀 What I Do
 
-- 🧠 [TaskTrail](https://github.com/oMAGMANo/TaskTrail) — AI-powered task management with multi-agent system  
-- 📄 [Policy Processor](https://github.com/oMAGMANo/policy-processor) — LLM-based decision tree system  
-- ⚙️ [Priority Processing Agent](https://github.com/oMAGMANo/PriorityProcessingAgent) — intelligent backend processing system  
-- 🤖 [LangGraph A2A Template](https://github.com/oMAGMANo/LanggraphA2ATemplate) — production-ready multi-agent template  
-- 🎧 [Multimodal Emotion System](https://github.com/oMAGMANo/multimodal-emotion-recognition-music-system) — patent-backed multimodal AI  
+- Design multi-agent systems using LangGraph, the supervisor pattern, and A2A/MCP protocols
+- Build self-hosted platform infrastructure — deployment systems, RAG pipelines, audited agents
+- Fine-tune and deploy small language models (QLoRA, GGUF, on-device inference)
+- Publish and patent original research in applied AI
 
----
+### 🔬 Research & Patents
 
-## 🛠️ Tech Stack
+- 📄 **IEEE RAICS 2025** — *Instruction-Tuned Small Language Models for Client Feedback Analysis: A Resource-Conscious Deployment Pipeline* (DOI: [10.1109/RAICS66191.2025.11332597](https://doi.org/10.1109/RAICS66191.2025.11332597))
+- 🎧 **Indian Patent, Application No. 202541089226** (lead inventor) — *Real-Time Multimodal Emotion Recognition System for Personalized Music Recommendation*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blue?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🔥 Featured Projects
 
----
+- 🕯️ [**Lantern**](https://rag.servhub.cc) — self-hosted, citation-grounded document Q&A: every answer traceable to the exact region of the source, with an audited agent operating alongside the UI
+- 🛳️ [**Slipway**](https://slipway.servhub.cc) — self-hosted deployment platform with zero-downtime blue-green deploys, automatic rollback, and an MCP-exposed ops agent for natural-language deploy/rollback/diagnostics
+- 🧠 [**TaskTrail**](https://github.com/oMAGMANo/TaskTrail) — AI-powered task management with a multi-agent system
+- 📄 [**Policy Processor**](https://github.com/oMAGMANo/policy-processor) — LLM-based decision tree system
+- 🤖 [**LangGraph A2A Template**](https://github.com/oMAGMANo/LanggraphA2ATemplate) — production-ready multi-agent template
+- 🎧 [**Multimodal Emotion System**](https://github.com/oMAGMANo/multimodal-emotion-recognition-music-system) — patent-backed multimodal AI combining facial emotion, NLP sentiment, and contextual signals
 
-## 📫 Connect With Me
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12shivam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam12.dev@gmail.com)
+Python · FastAPI · LangGraph · LangChain · CrewAI · Docker · Kubernetes · Redis · PostgreSQL/pgvector · Next.js
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/12shivam/) · [Portfolio](https://portfolio-vercel-two-iota.vercel.app/) · Email
+
 ---
 
 💡 *Focused on building real-world AI systems, not just models.*
